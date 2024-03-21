@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SUBANG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "수방의 학습 노트"
+  location         : "South Korea"
+  email            : "binisu49@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
